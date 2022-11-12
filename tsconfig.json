@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "sourceMap": true,
+    "moduleResolution": "node"
+  },
+  "include": ["src/**/*", ".eslintrc.js"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
